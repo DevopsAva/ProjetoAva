@@ -11,7 +11,7 @@ export default function Atividade(props) {
             case '3':
                 return 'Alta'
             default:
-                return 'Não definido';
+                return 'Não escolhido';
         }
     }
 
